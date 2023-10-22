@@ -11,7 +11,7 @@ class StringServerHandler implements URLHandler {
                 String[] parameters = query.split("=");
                 if (parameters.length == 2 && parameters[0].equals("s")) {
                     String message = parameters[1];
-                    response = response + '/n' + message;
+                    response = response +"\n" + message;
                     return response;
                 }
             }
