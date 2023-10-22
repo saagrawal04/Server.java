@@ -27,7 +27,7 @@ class StringServer {
             return;
         }
 
-        int port = Integer.parseInt(args[0);
+        int port = Integer.parseInt(args[0]);
 
         Server.start(port, new StringServerHandler());
     }
