@@ -10,7 +10,8 @@ PART 1
 3. The value of the variable ans got changed which stores the string va;ues to be displayed
 
 PART 2
-
+![Image](3.png)
+I was unable to log in without a password at home because it kept showing that the password I was typing was wrong even though I have been using it to log in for the past 3 weeks. However, I was able to do this during lab and got logged in without havign to type in a password.
 
 
 
