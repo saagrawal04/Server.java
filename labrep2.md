@@ -1,4 +1,5 @@
 PART 1
+![Image](2.1.png)
 ![Image](1.png)
 1. The method handleRequest is being used here.
 2. The argument being input is "a new line"
